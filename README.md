@@ -164,5 +164,3 @@ Copy code
 ### 4. **Adjust `README.md` as Needed**
 - **Replace Placeholder Information**: Don’t forget to replace placeholders like `your-username` with your actual GitHub username or project-specific information (e.g., `root`, `your_password`, and `your_database`).
 - **Test Instructions**: Make sure to follow all setup steps to ensure they work correctly for your specific environment.
-
-Now your `README.md` file will serve as a comprehensive guide for anyone setting up, using, or contributing to your project!
